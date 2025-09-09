@@ -12,7 +12,7 @@ SQL Queries:
 [3) Cleaning the Data](),
 [4) Analyzing the Data]()
 
-Visualizations: [Tableau]((https://public.tableau.com/views/CyclisticCaseStudyHowMembersandCasualsRideDifferently/CyclisticUsageRideVolumeandDurationbyRiderType?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+Visualizations: [Tableau](https://public.tableau.com/views/CyclisticCaseStudyHowMembersandCasualsRideDifferently/CyclisticUsageRideVolumeandDurationbyRiderType?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 **Question:** How do annual members and casual riders use Cyclistic bikes differently?
 
