@@ -8,7 +8,7 @@ Data Source: [divvy_tripdata](https://divvy-tripdata.s3.amazonaws.com/index.html
 
 SQL Queries:
 [1) Combining the Data](https://github.com/russodomenic5-collab/Cyclistic_Case_Study/blob/main/Data%20Combining.sql)
-[2) Exploring the Data]()
+[2) Exploring the Data]((https://github.com/russodomenic5-collab/Cyclistic_Case_Study/blob/main/Data%20Exploration.sql)
 [3) Cleaning the Data]()
 [4) Analyzing the Data]()
 
