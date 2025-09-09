@@ -1,12 +1,18 @@
 # Cyclistic Case Study - Google Data Analytics Professional Certificate
 
 ## 📖 Project Overview
-Throughout this case study, I will be taking on the role of a junior analyst tasked with providing insight on Cyclistic, a fictional bike company located in Chicago. Utilizing each phase of the data analysis process ([Ask](), [Prepare](), [Process](), [Analyze](), [Share](), and [Act]()), I will leverage data to answer key business questions, contributing to insightful, data driven decisions.
+Throughout this case study, I will be taking on the role of a junior analyst tasked with providing insights on Cyclistic, a fictional bike company located in Chicago. Utilizing each phase of the data analysis process ([Ask](), [Prepare](), [Process](), [Analyze](), [Share](), and [Act]()), I will leverage data to answer key business questions, contributing to insightful, data driven decisions.
 
 ### Links:
 Data Source: [divvy_tripdata](https://divvy-tripdata.s3.amazonaws.com/index.html) (Data for this case study utilizes the following months: August 2024-July 2025)
 
+SQL Queries:
+[1) Combining the Data]()
+[2) Exploring the Data]()
+[3) Cleaning the Data]()
+[4) Analyzing the Data]()
 
+Visualizations: [Tableau]((https://public.tableau.com/views/CyclisticCaseStudyHowMembersandCasualsRideDifferently/CyclisticUsageRideVolumeandDurationbyRiderType?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 **Question:** How do annual members and casual riders use Cyclistic bikes differently?
 
