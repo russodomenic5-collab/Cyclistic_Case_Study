@@ -34,8 +34,8 @@ Three questions will guide the future marketing program:
 For this case study, I have been assigned the first question to answer: **How do annual members and casual
 riders use Cyclistic bikes differently?**
 
-
-## Highlights
+## Prepare
+Now that we have determined our business task and key question at hand, it's time to take the steps in preparing the data for eventual cleaning and analysis. As mentioned previously, we will be using the [divvy_tripdata](https://divvy-tripdata.s3.amazonaws.com/index.html) file to access historical ride data from August 2024-July 2025. The data has been made available by Motivate International Inc. under this [license](https://divvybikes.com/data-license-agreement) This is public data that you can use to explore how different customer types are using Cyclistic bikes. But note that data-privacy issues prohibit you from using riders’ personally identifiable information. This means that you won’t be able to connect pass purchases to credit card numbers to determine if casual riders live in the Cyclistic service area or if they have purchased multiple## Highlights
 - Cleaned & modeled ~4M trip records in BigQuery.
 - Built 7 dashboards: Rider Distribution, Weekly Trends, Monthly Trends, Rideable Types, Ride Duration, Start/End Maps.
 - Key findings:
