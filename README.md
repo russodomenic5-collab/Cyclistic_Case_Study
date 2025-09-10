@@ -44,7 +44,8 @@ During this phase, it's important to recognize where the data is located and how
 ## Process
 With the data prepared and downloaded, it's now time to begin the processing phase. Looking at the 12 Cyclistic files we have downloaded, there is a total count of ~5.6 million rows of data. Since Microsoft Excel can only have ~1 million rows of data within a worksheet (not meant to manage large amounts of data), we will be using BigQuery to combine the various datasets into one before cleaning and analyzing. 
 ### Combining the Data
-SQL Query: [1) Combining the Data](https://github.com/russodomenic5-collab/Cyclistic_Case_Study/blob/main/Data%20Combining.sql)
+SQL Query: [Combining the Data](https://github.com/russodomenic5-collab/Cyclistic_Case_Study/blob/main/Data%20Combining.sql)
+
 In this step, we have downloaded each of the 12 months of data into BigQuery. Now that they are located within the warehouse, we will use SQL code to combine each of the datasets into one new dataset called combined_trips, containing 5,611,500 rows of data for the entire year.
 
 ## Highlights
