@@ -35,7 +35,15 @@ For this case study, I have been assigned the first question to answer: **How do
 riders use Cyclistic bikes differently?**
 
 ## Prepare
-Now that we have determined our business task and key question at hand, it's time to take the steps in preparing the data for eventual cleaning and analysis. As mentioned previously, we will be using the [divvy_tripdata](https://divvy-tripdata.s3.amazonaws.com/index.html) file to access historical ride data from August 2024-July 2025. The data has been made available by Motivate International Inc. under this [license](https://divvybikes.com/data-license-agreement) This is public data that you can use to explore how different customer types are using Cyclistic bikes. But note that data-privacy issues prohibit you from using riders’ personally identifiable information. This means that you won’t be able to connect pass purchases to credit card numbers to determine if casual riders live in the Cyclistic service area or if they have purchased multiple## Highlights
+Now that we have determined our business task and key question at hand, it's time to take the steps in preparing the data for eventual cleaning and analysis. As mentioned previously, we will be using the [divvy_tripdata](https://divvy-tripdata.s3.amazonaws.com/index.html) data to access historical ride information for our analysis. Within the trip data, there are files for each month beginning at April 2020 and ending at August 2025. For this case study, we will be using the ride data from **August 2024 through July 2025**. Each file has the same naming convention of YYYYMM-divvy-tripdata and includes the same information such as ride id, bike type, start times and stations, end times and stations, and whether the rider is a member or a casual. The data has been made available by Motivate International Inc. under this [license](https://divvybikes.com/data-license-agreement). 
+
+This is public data that you can use to explore how different customer types are using Cyclistic bikes. But note that data-privacy issues prohibit you from using riders’ personally identifiable information. This means that we won’t be able to connect pass purchases to credit card numbers to determine if casual riders live in the Cyclistic service area or if they have purchased multiple.
+
+During this phase, its important to recognize where the data is located and how it is organzied, allowing you to better underdstand how to work with the data efficently. Taking into account the integrity of the data and how the information provided helps answer your question is also important, as this will will contribute to a reliable analysis.
+
+## Process
+
+## Highlights
 - Cleaned & modeled ~4M trip records in BigQuery.
 - Built 7 dashboards: Rider Distribution, Weekly Trends, Monthly Trends, Rideable Types, Ride Duration, Start/End Maps.
 - Key findings:
