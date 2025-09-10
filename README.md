@@ -47,6 +47,7 @@ With the data prepared and downloaded, it's now time to begin the processing pha
 SQL Query: [Combining the Data](https://github.com/russodomenic5-collab/Cyclistic_Case_Study/blob/main/Data%20Combining.sql)
 
 In this step, we have downloaded each of the 12 months of data into BigQuery. Now that they are located within the warehouse, we will use SQL code to combine each of the datasets into one new dataset called combined_trips, containing 5,611,500 rows of data for the entire year.
+<img width="359" height="680" alt="Snip_TEMP0001" src="https://github.com/user-attachments/assets/abd66549-e843-4e64-b2b9-a06c4772d604" />
 
 
 ## Highlights
