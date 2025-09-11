@@ -50,7 +50,10 @@ In this step, we have downloaded each of the 12 months of data into BigQuery. No
 
 <img width="359" height="680" alt="Snip_TEMP0001" src="https://github.com/user-attachments/assets/abd66549-e843-4e64-b2b9-a06c4772d604" />
 
+### Exploring the Data
+SQL Query: [Exploring the Data](https://github.com/russodomenic5-collab/Cyclistic_Case_Study/blob/main/Data%20Exploration.sql) 
 
+Using our new dataset (combined_trips), we can now use SQL code to explore the data and 
 ## Highlights
 - Cleaned & modeled ~4M trip records in BigQuery.
 - Built 7 dashboards: Rider Distribution, Weekly Trends, Monthly Trends, Rideable Types, Ride Duration, Start/End Maps.
