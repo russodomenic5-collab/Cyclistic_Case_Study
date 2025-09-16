@@ -55,7 +55,7 @@ SQL Query: [Exploring the Data](https://github.com/russodomenic5-collab/Cyclisti
 
 Using our new dataset (combined_trips), we can now use SQL code to explore the data, helping us gain better insights on it's content. Exploring the data gives us a head start on narrowing down what to include/exclude for our analysis, while also allowing us to find any errors or inconsistencies that will need to be addressed during the cleaning phase. Below are some of the results from the queries I've run to familiarize myself with the data:
 
-**1. Total Number of Rows**<br>
+**1. Total Number of Rows**
 
 <img width="546" height="51" alt="Snip_TEMP0001" src="https://github.com/user-attachments/assets/62078ce9-41f8-422f-bb2b-eb24e8ecc7c0" /> <br>
 
@@ -73,7 +73,7 @@ Below we can see the number of **null values** in each column. Knowing this info
 
 **4. Duplicate ride_id's & Length of ride_id's**
 
-There are no duplicate ride_id's in our combined_trips dataset, meaning we won't have to address the ride_id column duirng our cleaning. We have also confirmed every ride_id has the same amount of values (16 total)
+There are no duplicate ride_id's in our combined_trips dataset, meaning we won't have to address the ride_id column duirng our cleaning. We have also confirmed every ride_id has the same amount of values (16 total).
 
 <img width="342" height="52" alt="Snip_TEMP0001" src="https://github.com/user-attachments/assets/1007d699-d313-4903-b6c6-867d82f7fe26" /> <img width="397" height="52" alt="Snip_TEMP0001" src="https://github.com/user-attachments/assets/edd9423c-3822-4428-a71d-e4b2b5385fdd" /> <br>
 
@@ -88,6 +88,14 @@ There are 3 different rideable types that are observed, with electric bikes bein
 As shown, there are two types of riders: **members** and **casuals**, with members being the more popular type.
 
 <img width="388" height="81" alt="Snip_TEMP0001" src="https://github.com/user-attachments/assets/a2f2b523-3fb1-4e55-b209-71d55bd574a7" /> <br>
+
+**7. Rides Less Than a Minute or More Than a Day**
+
+Because there isn't much data associated to a ride that lasts less than a minute long, it's important to identify how many of these cases there are so we can remove them when cleaning. Also, rides that last longer than a day will also be removed, as these are most likely people who forgot to end their ride when arriving to their end station.
+
+<img width="188" height="56" alt="Snip_TEMP0001" src="https://github.com/user-attachments/assets/a4c15950-685b-4b2a-b9a4-b723621da7bd" /> <img width="189" height="52" alt="Snip_TEMP0001" src="https://github.com/user-attachments/assets/170ae8c7-fcfe-4f7c-8030-e226e5e451de" /> <br>
+
+
 
 
 
