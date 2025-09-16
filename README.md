@@ -77,8 +77,8 @@ There are no duplicate ride_id's in our combined_trips dataset, meaning we won't
 
 <img width="342" height="52" alt="Snip_TEMP0001" src="https://github.com/user-attachments/assets/1007d699-d313-4903-b6c6-867d82f7fe26" />
 
-<img width="397" height="52" alt="Snip_TEMP0001" src="https://github.com/user-attachments/assets/edd9423c-3822-4428-a71d-e4b2b5385fdd" /> <br>
-
+<img width="397" height="52" alt="Snip_TEMP0001" src="https://github.com/user-attachments/assets/edd9423c-3822-4428-a71d-e4b2b5385fdd" /> 
+<br>
 
 
 
