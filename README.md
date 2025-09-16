@@ -136,6 +136,9 @@ The visual above displays the difference in ride patterns for members and casual
 
 <img width="999" height="799" alt="Cyclistic Rideable Type_ Members vs Casuals" src="https://github.com/user-attachments/assets/1455e15d-db7c-41b7-bc33-a4c93e0eb020" />
 
+In the visual above, we are able to see a breakdown of the total amount of rides by each rider type (member vs casual) for each rideable type (classic bike, electric bike, electric scooter). Along with this, we also have a breakdown of the percentage of riders per rider type and rideable type out of all rides. For example, looking at the bar chart, we can see there are **1,395,918 members** who ride **classic bikes**, while in the pie chart, we can see that same group (members who ride classic bikes) make up the largest percent of all riders (37.06%). 
+
+<img width="999" height="799" alt="How Long Members and Casual Riders Take Cyclistic Rides" src="https://github.com/user-attachments/assets/c74e1c8a-4afa-435a-a439-0766e32b17e6" />
 
 
 ## Highlights
