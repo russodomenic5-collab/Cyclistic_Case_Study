@@ -128,9 +128,11 @@ Once we have these queries created, we will leverage Tableau to translate these 
 
 <img width="1099" height="799" alt="Cyclistic Usage_ Ride Volume and Duration by Rider Type" src="https://github.com/user-attachments/assets/d78bd4be-68c8-4d95-93f7-2bcbbb71a7ec" />
 
-The visual above displays the breakdown of total rides by rider type (member vs casual), along with the average duration of each ride by rider type (member vs casual). It's evident that members make up most of the rides (63.4%), while casual riders only make up 36.53% of all rides. Along with this, we have found that on average, casuals are taking longer rides than members (22.5 minutes vs 11.9 minutes). 
+The visual above displays the breakdown of total rides by rider type (member vs casual), along with the average duration of each ride by rider type (member vs casual). It's evident that members make up most of the rides (63.4%), while casual riders only make up 36.53% of all rides. Along with this, we have found that on average, casuals are taking longer rides than members (22.5 minutes vs 11.9 minutes). <br>
 
 <img width="999" height="799" alt="Cyclistic Riding Patterns_ Members vs Casuals" src="https://github.com/user-attachments/assets/3850c5c0-b898-4a1a-8741-a6bac39e3c0b" />
+
+The visual above displays the difference in ride patterns for members and casuals on a weekly and monthly basis. It's evident that members are more active on weekdays and less on weekends, while casuals are more active on weekends and less on weekdays. Also, both members and casuals see an uptick in rides starting in February and ending in October (Spring-Fall), while also experiencing a drop in rides from November through January (Winter). We can infer from this information that members may be using bikes during the week to get to and from work, while casuals use bikes more on weekends for leisure. Also, the number of rides by each rider is largely effected by the weather each month.
 
 
 
