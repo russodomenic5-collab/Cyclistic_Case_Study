@@ -63,15 +63,13 @@ Using our new dataset (combined_trips), we can now use SQL code to explore the d
 
 As shown below, there are 3 different data types in the combined_trips dataset with the **ride_id** column as the primary key.
 
-<img width="461" height="380" alt="Snip_TEMP0001" src="https://github.com/user-attachments/assets/187133fd-db77-4e33-a3c3-34a62327f405" />
-
+<img width="461" height="380" alt="Snip_TEMP0001" src="https://github.com/user-attachments/assets/187133fd-db77-4e33-a3c3-34a62327f405" /> <br>
 
 **3. Total Null Values in Each Column**
 
 Below we can see the number of **null values** in each column. Knowing this information is vital, since we will not be utilizing any null values for our analysis. We now know which columns need to be addressed during our cleaning process.
 
-<img width="949" height="34" alt="Snip_TEMP0001" src="https://github.com/user-attachments/assets/9c0bf0bf-1528-42d1-bebc-b36d2a1bc162" />
-
+<img width="949" height="34" alt="Snip_TEMP0001" src="https://github.com/user-attachments/assets/9c0bf0bf-1528-42d1-bebc-b36d2a1bc162" /> <br>
 
 **4. Duplicate ride_id's & Length of ride_id's**
 
@@ -79,7 +77,7 @@ There are no duplicate ride_id's in our combined_trips dataset, meaning we won't
 
 <img width="342" height="52" alt="Snip_TEMP0001" src="https://github.com/user-attachments/assets/1007d699-d313-4903-b6c6-867d82f7fe26" />
 
-<img width="397" height="52" alt="Snip_TEMP0001" src="https://github.com/user-attachments/assets/edd9423c-3822-4428-a71d-e4b2b5385fdd" />
+<img width="397" height="52" alt="Snip_TEMP0001" src="https://github.com/user-attachments/assets/edd9423c-3822-4428-a71d-e4b2b5385fdd" /> <br>
 
 
 
