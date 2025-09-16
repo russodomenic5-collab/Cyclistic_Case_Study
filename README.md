@@ -78,7 +78,21 @@ There are no duplicate ride_id's in our combined_trips dataset, meaning we won't
 <img width="342" height="52" alt="Snip_TEMP0001" src="https://github.com/user-attachments/assets/1007d699-d313-4903-b6c6-867d82f7fe26" />
 
 <img width="397" height="52" alt="Snip_TEMP0001" src="https://github.com/user-attachments/assets/edd9423c-3822-4428-a71d-e4b2b5385fdd" /> 
-<br>
+
+
+**5. Number of Trips per Rideable Type**
+
+There are 3 different rideable types that are observed, with electric bikes being the most popular, and electric scooters being the least popular.
+
+<img width="391" height="110" alt="Snip_TEMP0001" src="https://github.com/user-attachments/assets/63533cfa-041b-4fde-abc3-a7eceeaf8f6e" /> <br>
+
+**6. Number of Trips per Rider Type**
+
+As shown, there are two types of riders: **members** and **casuals**, with members being the more popular type.
+
+<img width="388" height="81" alt="Snip_TEMP0001" src="https://github.com/user-attachments/assets/a2f2b523-3fb1-4e55-b209-71d55bd574a7" /> <br>
+
+
 
 
 
