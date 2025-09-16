@@ -116,7 +116,7 @@ After using SQL code to perform each of these actions, we are left with a brand 
 
 ## Analyze & Share
 
-SQL Query: [Analyzing the Data](https://github.com/russodomenic5-collab/Cyclistic_Case_Study/blob/main/Data%20Analysis.sql)
+SQL Query: [Analyzing the Data](https://github.com/russodomenic5-collab/Cyclistic_Case_Study/blob/main/Data%20Analysis.sql)<br>
 Visualizations: [Tableau](https://public.tableau.com/views/CyclisticCaseStudyHowMembersandCasualsRideDifferently/CyclisticUsageRideVolumeandDurationbyRiderType?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 With our data cleaned and our new cleaned_combined_trips dataset created, we have now reached the analyze and share phases of the process. During these phases, we will use SQL queries to generate results that can help answer our assigned question: **How do annual members and casual
