@@ -56,7 +56,8 @@ SQL Query: [Exploring the Data](https://github.com/russodomenic5-collab/Cyclisti
 Using our new dataset (combined_trips), we can now use SQL code to explore the data, helping us gain better insights on it's content. Exploring the data gives us a head start on narrowing down what to include/exclude for our analysis, while also allowing us to find any errors or inconsistencies that will need to be addressed during the cleaning phase. Below are some of the results from the queries I've run to familiarize myself with the data:
 
 **1. Total Number of Rows**<br>
-<img width="546" height="51" alt="Snip_TEMP0001" src="https://github.com/user-attachments/assets/62078ce9-41f8-422f-bb2b-eb24e8ecc7c0" />
+
+<img width="546" height="51" alt="Snip_TEMP0001" src="https://github.com/user-attachments/assets/62078ce9-41f8-422f-bb2b-eb24e8ecc7c0" /> <br>
 
 
 **2. Column Names and Data Types**
