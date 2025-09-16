@@ -110,7 +110,12 @@ Additionally, we will be adding 3 more columns into this new dataset:
 2. The day of the week each ride took place will be added as **day_of_week**.
 3. The month that each ride took place will be added as **month**.
 
-After using SQL code to perform each of these actions, we are left with a brand new dataset called cleaned_combined_trips, containing a total of **3,766,232 rows**.
+After using SQL code to perform each of these actions, we are left with a brand new dataset called **cleaned_combined_trips**, containing a total of **3,766,232 rows**.
+
+<img width="428" height="695" alt="Snip_TEMP0001" src="https://github.com/user-attachments/assets/9bfae08c-2dda-47f7-88c1-65e1d237658d" /> <br>
+
+## Analyze & Share
+
 
 
 
