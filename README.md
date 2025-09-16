@@ -60,6 +60,7 @@ Using our new dataset (combined_trips), we can now use SQL code to explore the d
 <img width="546" height="51" alt="Snip_TEMP0001" src="https://github.com/user-attachments/assets/62078ce9-41f8-422f-bb2b-eb24e8ecc7c0" /> <br>
 
 
+
 **2. Column Names and Data Types**
 
 As shown below, there are 3 different data types in the combined_trips dataset with the **ride_id** column as the primary key.
