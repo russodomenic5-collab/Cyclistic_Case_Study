@@ -55,9 +55,14 @@ SQL Query: [Exploring the Data](https://github.com/russodomenic5-collab/Cyclisti
 
 Using our new dataset (combined_trips), we can now use SQL code to explore the data, helping us gain better insights on it's content. Exploring the data gives us a head start on narrowing down what to include/exclude for our analysis, while also allowing us to find any errors or inconsistencies that will need to be addressed during the cleaning phase. Below are some of the results from the queries I've run to familiarize myself with the data:
 
-**Total number of rows**
+**Total Number of Rows**
 
 <img width="546" height="51" alt="Snip_TEMP0001" src="https://github.com/user-attachments/assets/62078ce9-41f8-422f-bb2b-eb24e8ecc7c0" />
+
+**Column Names and Data Types**
+As shown below, there are 3 different data types in the combined_trips dataset with the **ride_id** column as the primary key.
+
+<img width="461" height="380" alt="Snip_TEMP0001" src="https://github.com/user-attachments/assets/187133fd-db77-4e33-a3c3-34a62327f405" />
 
 ## Highlights
 - Cleaned & modeled ~4M trip records in BigQuery.
