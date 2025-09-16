@@ -124,6 +124,11 @@ riders use Cyclistic bikes differently?**
 
 Once we have these queries created, we will leverage Tableau to translate these findings into clear, meaningful visuals to communicate our findings in a simple, convenient manner. 
 
+### Results
+
+<img width="1099" height="799" alt="Cyclistic Usage_ Ride Volume and Duration by Rider Type" src="https://github.com/user-attachments/assets/d78bd4be-68c8-4d95-93f7-2bcbbb71a7ec" />
+
+
 
 
 
