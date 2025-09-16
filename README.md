@@ -99,7 +99,7 @@ Because there isn't much data associated to a ride that lasts less than a minute
 
 SQL Query: [Cleaning the Data](https://github.com/russodomenic5-collab/Cyclistic_Case_Study/blob/main/Data%20Cleaning.sql)
 
-Now that we have a better understanding of the combined_trips dataset, it's time to begin cleaning our dataset to prepare for analysis. The new cleaned data will be insreted into a new dataset called **cleaned_combined_trips**  Based on our findings in the previous step, we will be performing the following:
+Now that we have a better understanding of the combined_trips dataset, it's time to begin cleaning our dataset to prepare for analysis. The cleaned data will be inserted into a new dataset called **cleaned_combined_trips**  Based on our findings in the previous step, we will be performing the following:
 
 1. Removing any rows that have null values.
 2. Removing any rides that are less than a minute or longer than a day.
@@ -110,6 +110,7 @@ Additionally, we will be adding 3 more columns into this new dataset:
 2. The day of the week each ride took place will be added as **day_of_week**.
 3. The month that each ride took place will be added as **month**.
 
+After using SQL code to perform each of these actions, we are left with a brand new dataset called cleaned_combined_trips, containing a total of **3,766,232 rows**.
 
 
 
