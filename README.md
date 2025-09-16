@@ -132,8 +132,9 @@ The visual above displays the breakdown of total rides by rider type (member vs 
 
 <img width="999" height="799" alt="Cyclistic Riding Patterns_ Members vs Casuals" src="https://github.com/user-attachments/assets/3850c5c0-b898-4a1a-8741-a6bac39e3c0b" />
 
-The visual above displays the difference in ride patterns for members and casuals on a weekly and monthly basis. It's evident that members are more active on weekdays and less on weekends, while casuals are more active on weekends and less on weekdays. Also, both members and casuals see an uptick in rides starting in February and ending in October (Spring-Fall), while also experiencing a drop in rides from November through January (Winter). We can infer from this information that members may be using bikes during the week to get to and from work, while casuals use bikes more on weekends for leisure. Also, the number of rides by each rider is largely effected by the weather each month.
+The visual above displays the difference in ride patterns for members and casuals on a weekly and monthly basis. It's evident that members are more active on weekdays and less on weekends, while casuals are more active on weekends and less on weekdays. Also, both members and casuals see an uptick in rides starting in February and ending in September (Spring-Summer), while also experiencing a drop in rides from October through January (Fall-Winter). We can infer from this information that members may be using bikes during the week to get to and from work, while casuals use bikes more on weekends for leisure. Also, the number of rides by each rider is largely effected by the time of year.
 
+<img width="999" height="799" alt="Cyclistic Rideable Type_ Members vs Casuals" src="https://github.com/user-attachments/assets/1455e15d-db7c-41b7-bc33-a4c93e0eb020" />
 
 
 
