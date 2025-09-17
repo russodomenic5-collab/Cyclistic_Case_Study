@@ -226,7 +226,7 @@ Once we have these queries created, we will leverage Tableau to translate these 
 - Casuals treat the system as a flexible, exploratory service, often ending rides in entertainment or leisure districts.
 - This reinforces that members are routine commuters, while casuals are experience-seekers.
 
-- 
+
 ## Highlights
 - Cleaned & modeled ~4M trip records in BigQuery.
 - Built 7 dashboards: Rider Distribution, Weekly Trends, Monthly Trends, Rideable Types, Ride Duration, Start/End Maps.
