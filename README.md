@@ -186,7 +186,7 @@ Once we have these queries created, we will leverage Tableau to translate these 
 - Members have a much higher concentration in the 0–30 minute buckets, while casuals appear more frequently in the 31–60+ minute categories.
 - Casuals are far more likely than members to take extended trips of over an hour.
 
-**Interpretation**
+**Interpretation**:
 
 - Members use the service for short, consistent trips — supporting the idea of commuting or routine travel.
 - Casual riders engage in longer exploratory or leisure rides, reinforcing the recreational nature of their usage.
@@ -198,18 +198,35 @@ Once we have these queries created, we will leverage Tableau to translate these 
 
 **Interactive map, please click the following link to explore further: [Tableau](https://public.tableau.com/app/profile/domenic.russo/viz/CyclisticCaseStudyHowMembersandCasualsRideDifferently/CyclisticUsageRideVolumeandDurationbyRiderType)
 
-**Observation**
+**Observation**:
 
 - Member rides are concentrated near commuter hubs such as downtown Chicago, train stations, and major business districts.
 - Casual rides start more often near tourist destinations (lakefront, parks, and popular attractions).
 - The density and size of points reflect higher overall casual activity at recreational areas compared to member-focused commuting hubs.
 
-**Interpretation**
+**Interpretation**:
 
 - Members typically start rides close to where they live or commute (workplaces, transit stations).
 - Casuals are more likely to start rides in areas where leisure activities begin, such as near beaches, parks, or bike paths.
 - This shows distinct purpose of trip origins: transportation vs leisure.
 
+<img width="999" height="799" alt="Total Rides Per Ending Station_ Members vs Casuals" src="https://github.com/user-attachments/assets/62b62040-0325-4ae0-b19e-9e36c9a4b08c" />
+
+**6. 🗺️ End Station Map (Members vs Casuals)**
+
+**Observation**:
+
+- Member rides often end close to where they began or at another commuter hub, suggesting point-to-point commuting.
+- Casual rides frequently end in popular leisure destinations (parks, beaches, museums, shopping areas).
+- Casuals also show more ride dispersion, with varied end points compared to members’ concentrated patterns.
+
+**Interpretation**:
+
+- Members are purpose-driven riders, using bikes to connect consistent start and end points (home ↔ work).
+- Casuals treat the system as a flexible, exploratory service, often ending rides in entertainment or leisure districts.
+- This reinforces that members are routine commuters, while casuals are experience-seekers.
+
+- 
 ## Highlights
 - Cleaned & modeled ~4M trip records in BigQuery.
 - Built 7 dashboards: Rider Distribution, Weekly Trends, Monthly Trends, Rideable Types, Ride Duration, Start/End Maps.
