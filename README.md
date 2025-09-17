@@ -228,6 +228,39 @@ Once we have these queries created, we will leverage Tableau to translate these 
 - Casuals treat the system as a flexible, exploratory service, often ending rides in entertainment or leisure districts.
 - This reinforces that members are routine commuters, while casuals are experience-seekers.
 
+## Act
+
+Now that we have answered our assigned question (**How do annual members and casual riders use Cyclistic bikes differently?**), it's time to tie everything together and address the business task: **Design marketing startegies aimed at converting casual riders into annual members**.
+
+### **Recommendations to Convert Casuals → Members**
+
+**1. Location-Based Marketing**
+
+- Place ads, QR codes, or digital signage at start/end stations popular with casuals (parks, beaches, tourist areas).
+- Use app notifications when casuals start/end rides in these stations, prompting trial memberships.
+
+**2. Weekend & Seasonal Campaigns**
+
+- Offer weekend-only memberships or seasonal passes tailored to casual riders’ peak times.
+- Promote annual memberships during summer months with discounts or limited-time offers.
+- Electric Bike Incentives
+- Since casuals use electric bikes more proportionally, create membership perks that reduce e-bike surcharges.
+- Position membership as a way to save money on frequent e-bike usage.
+
+**3. Highlight Cost Savings for Long Rides**
+
+- Casual riders often take longer rides that cost more per trip.
+- Marketing should emphasize the unlimited nature of membership, showing cost comparisons:
+“5 long rides per month cost the same as a membership.”
+
+**4. Leverage Tourism Partnerships**
+
+- Partner with Chicago tourism boards, hotels, and attractions to bundle memberships into visitor packages.
+- Encourage repeat visitors to consider annual memberships with cross-promotions.
+
+**5. Commuter Conversion**
+
+- For casuals who ride frequently near downtown or train stations, highlight commuter-friendly benefits (no surge costs, guaranteed bike availability).
 
 ## Highlights
 - Cleaned & modeled ~4M trip records in BigQuery.
