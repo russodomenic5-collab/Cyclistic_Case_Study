@@ -164,7 +164,7 @@ Once we have these queries created, we will leverage Tableau to translate these 
 
 **Relevance**:
 
-Marketing campaigns can target casual riders during summer weekends (their peak usage period) and frame memberships as a way to extend these experiences year-round at a lower cost.
+. Marketing campaigns can target casual riders during summer weekends (their peak usage period) and frame memberships as a way to extend these experiences year-round at a lower cost.
 
 <img width="999" height="799" alt="Cyclistic Rideable Type_ Members vs Casuals" src="https://github.com/user-attachments/assets/1455e15d-db7c-41b7-bc33-a4c93e0eb020" />
 
@@ -184,7 +184,7 @@ Marketing campaigns can target casual riders during summer weekends (their peak 
 
 **Relevance**:
 
-Cyclistic could create promotional bundles (e.g., discounted memberships that include electric bike access) to appeal to casual riders’ preferences.
+. Cyclistic could create promotional bundles (e.g., discounted memberships that include electric bike access) to appeal to casual riders’ preferences.
 
 
 <img width="999" height="799" alt="How Long Members and Casual Riders Take Cyclistic Rides" src="https://github.com/user-attachments/assets/c74e1c8a-4afa-435a-a439-0766e32b17e6" />
