@@ -124,7 +124,9 @@ riders use Cyclistic bikes differently?**
 
 Once we have these queries created, we will leverage Tableau to translate these findings into clear, meaningful visuals to communicate our findings in a simple, convenient manner. 
 
-### Results
+### 📊 Tableau Visuals
+
+**1. 🚲Ride Distribution: Members vs Casuals**
 
 <img width="1099" height="799" alt="Cyclistic Usage_ Ride Volume and Duration by Rider Type" src="https://github.com/user-attachments/assets/d78bd4be-68c8-4d95-93f7-2bcbbb71a7ec" />
 
@@ -139,6 +141,7 @@ The visual above displays the difference in ride patterns for members and casual
 In the visual above, we are able to see a breakdown of the total amount of rides by each rider type (member vs casual) for each rideable type (classic bike, electric bike, electric scooter). Along with this, we also have a breakdown of the percentage of riders per rider type and rideable type out of all rides. For example, looking at the bar chart, we can see there are **1,395,918 members** who ride **classic bikes**, while in the pie chart, we can see that same group (members who ride classic bikes) make up the largest percent of all riders (37.06%). 
 
 <img width="999" height="799" alt="How Long Members and Casual Riders Take Cyclistic Rides" src="https://github.com/user-attachments/assets/c74e1c8a-4afa-435a-a439-0766e32b17e6" />
+
 
 
 ## Highlights
