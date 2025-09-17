@@ -131,6 +131,7 @@ Once we have these queries created, we will leverage Tableau to translate these 
 **1. 🚲Ride Distribution & Ride Duration: Members vs Casuals**
 
 **Observation**:
+
 . Members make up the majority of total rides, showing their role as Cyclistic’s most consistent customers.
 
 . Casual riders take fewer trips but ride for longer durations, especially in the 16–60 minute range.
@@ -147,34 +148,43 @@ Once we have these queries created, we will leverage Tableau to translate these 
 
 <img width="999" height="799" alt="Cyclistic Riding Patterns_ Members vs Casuals" src="https://github.com/user-attachments/assets/3850c5c0-b898-4a1a-8741-a6bac39e3c0b" />
 
-**2. 📅 Rides by Day of Week & Month (Line Chart, split by Rider Type)**
+**2. 📅 Ride Patterns by Day of Week & Month (Line Chart)**
 
-This visualization highlights **riding patterns throughout the week and month for members and casuals**.
+**Observation**:
 
-. Members ride more consistently across **weekdays**, which suggests a strong commuting or daily-use pattern.
+. Members ride steadily on weekdays, reflecting commuting patterns.
 
-. Casual riders show spikes on **weekends**, aligning with leisure or recreational use.
+. Casual riders peak heavily on weekends and in summer months, showing seasonality and leisure-based use.
 
-. Both groups ride more in the warmer months (spring/summer) and decline during the winter.
+**Interpretation**:
 
-. Casual riders are especially seasonal, with sharp increases during summer months — likely tied to tourism and outdoor activities.
+. Members rely on Cyclistic as part of their daily routines.
 
-. Members ride more steadily throughout the year, though they also peak in summer.
+. Casuals ride more for recreation, tourism, or good-weather outings.
 
-👉 **Takeaway**: Members are more likely to use Cyclistic as a part of their routine, while casuals treat it as a weekend or free-time activity. The time of year also plays a major role in ride popularity amongst both members and casuals, with warmer months being more popular.
+**Relevance**:
 
+Marketing campaigns can target casual riders during summer weekends (their peak usage period) and frame memberships as a way to extend these experiences year-round at a lower cost.
 
 <img width="999" height="799" alt="Cyclistic Rideable Type_ Members vs Casuals" src="https://github.com/user-attachments/assets/1455e15d-db7c-41b7-bc33-a4c93e0eb020" />
 
 **3. 🚴 Rideable Type Preference (Bar Chart + Pie Chart)**
 
-This dashboard compares which bike types (classic, electric, scooter) are most popular among members vs casuals.
+**Observation**:
 
-. Members strongly prefer classic bikes, while casuals are more likely to use electric bikes and scooters.
+. Members overwhelmingly prefer classic bikes.
 
-. Scooters have relatively low usage overall.
+. Casual riders are more likely to use electric bikes.
 
-👉 **Takeaway**: Electric bike availability may encourage more casual rides, while members rely on classics for consistency. Marketing electric options to tourists could drive casual usage further.
+**Interpretation**:
+
+. Members value reliability and affordability for commuting.
+
+. Casuals are attracted to newer, more exciting ride options.
+
+**Relevance**:
+
+Cyclistic could create promotional bundles (e.g., discounted memberships that include electric bike access) to appeal to casual riders’ preferences.
 
 
 <img width="999" height="799" alt="How Long Members and Casual Riders Take Cyclistic Rides" src="https://github.com/user-attachments/assets/c74e1c8a-4afa-435a-a439-0766e32b17e6" />
