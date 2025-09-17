@@ -132,15 +132,13 @@ Once we have these queries created, we will leverage Tableau to translate these 
 
 **Observation**:
 
-. Members make up the majority of total rides, showing their role as Cyclistic’s most consistent customers.
-
-. Casual riders take fewer trips but ride for longer durations.
+- Members make up the majority of total rides, showing their role as Cyclistic’s most consistent customers.
+- Casual riders take fewer trips but ride for longer durations.
 
 **Interpretation**:
 
-. Members treat Cyclistic as a quick, reliable commuting option.
-
-. Casual riders use Cyclistic for leisure and recreational trips.
+- Members treat Cyclistic as a quick, reliable commuting option.
+- Casual riders use Cyclistic for leisure and recreational trips.
 
 <br>
 
@@ -150,19 +148,15 @@ Once we have these queries created, we will leverage Tableau to translate these 
 
 **Observation**:
 
-. Casual riders show clear seasonal and weekly fluctuations: they ride more in warmer months (summer peaks) and heavily on weekends.
-
-. Members maintain a steady pattern across months and weekdays, with a smaller but consistent increase in summer.
-
-. Casual ridership drops sharply during colder months, while members continue riding year-round.
+- Casual riders show clear seasonal and weekly fluctuations: they ride more in warmer months (summer peaks) and heavily on weekends.
+- Members maintain a steady pattern across months and weekdays, with a smaller but consistent increase in summer.
+- Casual ridership drops sharply during colder months, while members continue riding year-round.
 
 **Interpretation**:
 
-. Casual riders are more influenced by weather and leisure time, aligning with recreational use.
-
-. Members rely on Cyclistic for commuting or daily transportation needs, explaining their stable ridership across seasons and weekdays.
-
-. Weekday vs weekend differences highlight purpose of use: commuting vs leisure.
+- Casual riders are more influenced by weather and leisure time, aligning with recreational use.
+- Members rely on Cyclistic for commuting or daily transportation needs, explaining their stable ridership across seasons and weekdays.
+- Weekday vs weekend differences highlight purpose of use: commuting vs leisure.
 
 
 <img width="999" height="799" alt="Cyclistic Rideable Type_ Members vs Casuals" src="https://github.com/user-attachments/assets/1455e15d-db7c-41b7-bc33-a4c93e0eb020" />
@@ -171,40 +165,32 @@ Once we have these queries created, we will leverage Tableau to translate these 
 
 **Observation**:
 
-. Members overwhelmingly prefer classic bikes, logging most of their trips on this rideable type.
-
-. Casual riders also favor classic bikes (778,527 rides), but they show a stronger relative interest in electric bikes (572,489 rides) compared to members.
-
-. Electric scooters see minimal use from both groups.
+- Members overwhelmingly prefer classic bikes, logging most of their trips on this rideable type.
+- Casual riders also favor classic bikes (778,527 rides), but they show a stronger relative interest in electric bikes (572,489 rides) compared to members.
+- Electric scooters see minimal use from both groups.
 
 **Interpretation**:
 
-. Classic bikes remain the primary mode of transport for both members and casuals, which shows that the traditional option continues to be the backbone of Cyclistic’s ridership.
-
-. However, casual riders experiment with electric bikes at a higher rate than members, suggesting that electrics may be appealing to more flexible, occasional users.
-
-. Since electric scooters represent only a small fraction of trips, they likely don’t play a major role in influencing membership decisions.
+- Classic bikes remain the primary mode of transport for both members and casuals, which shows that the traditional option continues to be the backbone of Cyclistic’s ridership.
+- However, casual riders experiment with electric bikes at a higher rate than members, suggesting that electrics may be appealing to more flexible, occasional users.
+- Since electric scooters represent only a small fraction of trips, they likely don’t play a major role in influencing membership decisions.
 
 
 <img width="999" height="799" alt="How Long Members and Casual Riders Take Cyclistic Rides" src="https://github.com/user-attachments/assets/c74e1c8a-4afa-435a-a439-0766e32b17e6" />
 
-** ⏳Ride Duration Breakdown**
+**4. ⏳Ride Duration Breakdown**
 
 **Observation**:
 
-. Most rides (both member and casual) fall in the 6–30 minute range, which represents typical short-distance trips.
-
-. Members have a much higher concentration in the 0–30 minute buckets, while casuals appear more frequently in the 31–60+ minute categories.
-
-. Casuals are far more likely than members to take extended trips of over an hour.
+- Most rides (both member and casual) fall in the 6–30 minute range, which represents typical short-distance trips.
+- Members have a much higher concentration in the 0–30 minute buckets, while casuals appear more frequently in the 31–60+ minute categories.
+- Casuals are far more likely than members to take extended trips of over an hour.
 
 **Interpretation**
 
-. Members use the service for short, consistent trips — supporting the idea of commuting or routine travel.
-
-. Casual riders engage in longer exploratory or leisure rides, reinforcing the recreational nature of their usage.
-
-. Extended ride times from casuals could also signal they’re less concerned about time-based pricing since they ride occasionally.
+- Members use the service for short, consistent trips — supporting the idea of commuting or routine travel.
+- Casual riders engage in longer exploratory or leisure rides, reinforcing the recreational nature of their usage.
+- Extended ride times from casuals could also signal they’re less concerned about time-based pricing since they ride occasionally.
 
 
 
