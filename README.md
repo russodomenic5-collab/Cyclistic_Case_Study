@@ -134,7 +134,7 @@ Once we have these queries created, we will leverage Tableau to translate these 
 
 . Members make up the majority of total rides, showing their role as Cyclistic’s most consistent customers.
 
-. Casual riders take fewer trips but ride for longer durations, especially in the 16–60 minute range.
+. Casual riders take fewer trips but ride for longer durations.
 
 **Interpretation**:
 
@@ -150,15 +150,19 @@ Once we have these queries created, we will leverage Tableau to translate these 
 
 **Observation**:
 
-. Members ride steadily on weekdays, reflecting commuting patterns.
+. Casual riders show clear seasonal and weekly fluctuations: they ride more in warmer months (summer peaks) and heavily on weekends.
 
-. Casual riders peak heavily on weekends and in summer months, showing seasonality and leisure-based use.
+. Members maintain a steady pattern across months and weekdays, with a smaller but consistent increase in summer.
+
+. Casual ridership drops sharply during colder months, while members continue riding year-round.
 
 **Interpretation**:
 
-. Members rely on Cyclistic as part of their daily routines.
+. Casual riders are more influenced by weather and leisure time, aligning with recreational use.
 
-. Casuals ride more for recreation, tourism, or good-weather outings.
+. Members rely on Cyclistic for commuting or daily transportation needs, explaining their stable ridership across seasons and weekdays.
+
+. Weekday vs weekend differences highlight purpose of use: commuting vs leisure.
 
 
 <img width="999" height="799" alt="Cyclistic Rideable Type_ Members vs Casuals" src="https://github.com/user-attachments/assets/1455e15d-db7c-41b7-bc33-a4c93e0eb020" />
@@ -181,7 +185,26 @@ Once we have these queries created, we will leverage Tableau to translate these 
 
 . Since electric scooters represent only a small fraction of trips, they likely don’t play a major role in influencing membership decisions.
 
+
 <img width="999" height="799" alt="How Long Members and Casual Riders Take Cyclistic Rides" src="https://github.com/user-attachments/assets/c74e1c8a-4afa-435a-a439-0766e32b17e6" />
+
+** ⏳Ride Duration Breakdown**
+
+**Observation**:
+
+. Most rides (both member and casual) fall in the 6–30 minute range, which represents typical short-distance trips.
+
+. Members have a much higher concentration in the 0–30 minute buckets, while casuals appear more frequently in the 31–60+ minute categories.
+
+. Casuals are far more likely than members to take extended trips of over an hour.
+
+**Interpretation**
+
+. Members use the service for short, consistent trips — supporting the idea of commuting or routine travel.
+
+. Casual riders engage in longer exploratory or leisure rides, reinforcing the recreational nature of their usage.
+
+. Extended ride times from casuals could also signal they’re less concerned about time-based pricing since they ride occasionally.
 
 
 
