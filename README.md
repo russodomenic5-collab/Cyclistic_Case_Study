@@ -130,13 +130,28 @@ Once we have these queries created, we will leverage Tableau to translate these 
 
 **1. 🚲Ride Distribution: Members vs Casuals**
 
-This chart shows the overall split of rides between members and casual riders. Members make up the majority of trips, which reinforces their importance as Cyclistic’s core customer base. Casual riders, however, still represent a significant share, showing room for targeted growth strategies. It's also important to note that on average, casual riders take longer trips per ride than members do.
+This chart shows the **overall split of rides** between members and casual riders. Members make up the majority of trips, which reinforces their importance as Cyclistic’s core customer base. Casual riders, however, still represent a significant share, showing room for targeted growth strategies. It's also important to note that on average, casual riders take longer trips per ride than members do.
 
 **👉 Takeaway**: Members ride more frequently overall, but casual riders ride lomger and still provide an important opportunity for expansion if Cyclistic can convert them into long-term subscribers.<br>
 
 <img width="999" height="799" alt="Cyclistic Riding Patterns_ Members vs Casuals" src="https://github.com/user-attachments/assets/3850c5c0-b898-4a1a-8741-a6bac39e3c0b" />
 
-The visual above displays the difference in ride patterns for members and casuals on a weekly and monthly basis. It's evident that members are more active on weekdays and less on weekends, while casuals are more active on weekends and less on weekdays. Also, both members and casuals see an uptick in rides starting in February and ending in September (Spring-Summer), while also experiencing a drop in rides from October through January (Fall-Winter). We can infer from this information that members may be using bikes during the week to get to and from work, while casuals use bikes more on weekends for leisure. Also, the number of rides by each rider is largely effected by the time of year.
+**2. 📅 Rides by Day of Week & Month (Line Chart, split by Rider Type)**
+
+This visualization highlights **riding patterns throughout the week and month for members and casuals**.
+
+. Members ride more consistently across **weekdays**, which suggests a strong commuting or daily-use pattern.
+
+. Casual riders show spikes on **weekends**, aligning with leisure or recreational use.
+
+. Both groups ride more in the warmer months (spring/summer) and decline during the winter.
+
+. Casual riders are especially seasonal, with sharp increases during summer months — likely tied to tourism and outdoor activities.
+
+. Members ride more steadily throughout the year, though they also peak in summer.
+
+👉 **Takeaway**: Members are more likely to use Cyclistic as a part of their routine, while casuals treat it as a weekend or free-time activity. Seasonal campaigns targeting casuals in summer could increase revenue, while ensuring bike availability during commuting months supports members.
+
 
 <img width="999" height="799" alt="Cyclistic Rideable Type_ Members vs Casuals" src="https://github.com/user-attachments/assets/1455e15d-db7c-41b7-bc33-a4c93e0eb020" />
 
