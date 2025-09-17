@@ -269,10 +269,6 @@ By aligning marketing strategies with casual riders’ behavioral differences (w
 ## Highlights
 - Cleaned & modeled ~4M trip records in BigQuery.
 - Built 6 dashboards: Rider Distribution/Average Length, Weekly/Monthly Trends, Rideable Types, Ride Duration, Start Map, End Maps.
-- Key findings:
-  - Members ride more frequently; casuals have longer average rides.
-  - Members peak on weekdays; casuals on weekends and summer months.
-  - Standard bikes dominate; casuals show higher electric-bike use in leisure areas.
 
 ## Repo structure
 SQL/ -- SQL scripts (cleaning, exploration, analysis)
@@ -280,36 +276,3 @@ Data/ -- small sample CSVs to reproduce parts
 Tableau/ -- packaged workbook for dashboards
 Assets/ -- screenshots for README
 Docs/ -- case study PDF and slide deck
-
-
-my-project/
-├── .github/              # GitHub-specific files (e.g., issue templates, workflow actions)
-│   ├── ISSUE_TEMPLATE.md
-│   └── workflows/
-│       └── ci.yml
-├── docs/                 # Project documentation (e.g., user guides, API docs)
-│   ├── index.md
-│   └── getting-started.md
-├── src/                  # Source code for the main application/library
-│   ├── main.py           # Example for a Python project
-│   ├── components/
-│   │   └── button.js     # Example for a JavaScript project
-│   └── utils/
-│       └── helper.js
-├── tests/                # Unit, integration, and end-to-end tests
-│   ├── unit/
-│   │   └── test_main.py
-│   └── integration/
-│       └── test_api.js
-├── data/                 # Data files (e.g., sample data, configuration files)
-│   ├── config.json
-│   └── sample.csv
-├── assets/               # Static assets (e.g., images, styles)
-│   ├── images/
-│   └── styles/
-├── .gitignore            # Specifies intentionally untracked files to ignore
-├── README.md             # Project overview, setup instructions, and usage
-├── LICENSE               # License information for the project
-├── package.json          # Dependency management (e.g., Node.js projects)
-├── requirements.txt      # Dependency management (e.g., Python projects)
-└── Dockerfile            # Docker configuration for containerization
