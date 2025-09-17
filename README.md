@@ -269,10 +269,3 @@ By aligning marketing strategies with casual riders’ behavioral differences (w
 ## Highlights
 - Cleaned & modeled ~4M trip records in BigQuery.
 - Built 6 dashboards: Rider Distribution/Average Length, Weekly/Monthly Trends, Rideable Types, Ride Duration, Start Map, End Maps.
-
-## Repo structure
-SQL/ -- SQL scripts (cleaning, exploration, analysis)
-Data/ -- small sample CSVs to reproduce parts
-Tableau/ -- packaged workbook for dashboards
-Assets/ -- screenshots for README
-Docs/ -- case study PDF and slide deck
