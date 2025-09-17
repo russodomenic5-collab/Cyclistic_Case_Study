@@ -129,7 +129,10 @@ Once we have these queries created, we will leverage Tableau to translate these 
 <img width="1099" height="799" alt="Cyclistic Usage_ Ride Volume and Duration by Rider Type" src="https://github.com/user-attachments/assets/d78bd4be-68c8-4d95-93f7-2bcbbb71a7ec" />
 
 **1. 🚲Ride Distribution: Members vs Casuals**
-The visual above displays the breakdown of total rides by rider type (member vs casual), along with the average duration of each ride by rider type (member vs casual). It's evident that members make up most of the rides (63.4%), while casual riders only make up 36.53% of all rides. Along with this, we have found that on average, casuals are taking longer rides than members (22.5 minutes vs 11.9 minutes). <br>
+
+This chart shows the overall split of rides between members and casual riders. Members make up the majority of trips, which reinforces their importance as Cyclistic’s core customer base. Casual riders, however, still represent a significant share, showing room for targeted growth strategies. It's also important to note that on average, casual riders take longer trips per ride than members do.
+
+**👉 Takeaway**: Members ride more frequently overall, but casual riders ride lomger and still provide an important opportunity for expansion if Cyclistic can convert them into long-term subscribers.<br>
 
 <img width="999" height="799" alt="Cyclistic Riding Patterns_ Members vs Casuals" src="https://github.com/user-attachments/assets/3850c5c0-b898-4a1a-8741-a6bac39e3c0b" />
 
