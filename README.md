@@ -1,7 +1,7 @@
 # Cyclistic Case Study - Google Data Analytics Professional Certificate
 
 ## 📖 Project Overview
-Throughout this case study, I will be taking on the role of a junior analyst tasked with providing insights on Cyclistic, a fictional bike company located in Chicago. Utilizing each phase of the data analysis process ([Ask](https://github.com/russodomenic5-collab/Cyclistic_Case_Study/blob/main/README.md#ask), [Prepare](https://github.com/russodomenic5-collab/Cyclistic_Case_Study/blob/main/README.md#prepare), [Process](https://github.com/russodomenic5-collab/Cyclistic_Case_Study/blob/main/README.md#process), [Analyze](https://github.com/russodomenic5-collab/Cyclistic_Case_Study/blob/main/README.md#analyze-&-share), [Share](https://github.com/russodomenic5-collab/Cyclistic_Case_Study/blob/main/README.md#analyze-&-share), and [Act](https://github.com/russodomenic5-collab/Cyclistic_Case_Study/blob/main/README.md#act)), I will leverage data to answer key business questions, contributing to insightful, data driven decisions.
+Throughout this case study, I will be taking on the role of a junior analyst tasked with providing insights on Cyclistic, a fictional bike company located in Chicago. Utilizing each phase of the data analysis process ([Ask](https://github.com/russodomenic5-collab/Cyclistic_Case_Study/blob/main/README.md#ask), [Prepare](https://github.com/russodomenic5-collab/Cyclistic_Case_Study/blob/main/README.md#prepare), [Process](https://github.com/russodomenic5-collab/Cyclistic_Case_Study/blob/main/README.md#process), [Analyze](https://github.com/russodomenic5-collab/Cyclistic_Case_Study/blob/main/README.md#analyze-and-share), [Share](https://github.com/russodomenic5-collab/Cyclistic_Case_Study/blob/main/README.md#analyze-and-share), and [Act](https://github.com/russodomenic5-collab/Cyclistic_Case_Study/blob/main/README.md#act)), I will leverage data to answer key business questions, contributing to insightful, data driven decisions.
 
 ### Links:
 Data Source: [divvy_tripdata](https://divvy-tripdata.s3.amazonaws.com/index.html) (Data for this case study utilizes the following months: August 2024-July 2025)
@@ -114,7 +114,7 @@ After using SQL code to perform each of these actions, we are left with a brand 
 
 <img width="428" height="695" alt="Snip_TEMP0001" src="https://github.com/user-attachments/assets/9bfae08c-2dda-47f7-88c1-65e1d237658d" /> <br>
 
-## Analyze & Share
+## Analyze and Share
 
 SQL Query: [Analyzing the Data](https://github.com/russodomenic5-collab/Cyclistic_Case_Study/blob/main/Data%20Analysis.sql)<br>
 Visualizations: [Tableau](https://public.tableau.com/views/CyclisticCaseStudyHowMembersandCasualsRideDifferently/CyclisticUsageRideVolumeandDurationbyRiderType?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
