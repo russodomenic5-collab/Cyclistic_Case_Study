@@ -192,7 +192,21 @@ Once we have these queries created, we will leverage Tableau to translate these 
 - Casual riders engage in longer exploratory or leisure rides, reinforcing the recreational nature of their usage.
 - Extended ride times from casuals could also signal they’re less concerned about time-based pricing since they ride occasionally.
 
+<img width="999" height="799" alt="Total Rides Per Starting Station_ Members vs Casuals" src="https://github.com/user-attachments/assets/e6f8ddb3-7d61-41c6-847d-b36cad5a1a2a" />
 
+**5. 🗺️ Start Station Map (Members vs Casuals)**
+
+**Observation**
+
+- Member rides are concentrated near commuter hubs such as downtown Chicago, train stations, and major business districts.
+- Casual rides start more often near tourist destinations (lakefront, parks, and popular attractions).
+- The density and size of points reflect higher overall casual activity at recreational areas compared to member-focused commuting hubs.
+
+**Interpretation**
+
+- Members typically start rides close to where they live or commute (workplaces, transit stations).
+- Casuals are more likely to start rides in areas where leisure activities begin, such as near beaches, parks, or bike paths.
+- This shows distinct purpose of trip origins: transportation vs leisure.
 
 ## Highlights
 - Cleaned & modeled ~4M trip records in BigQuery.
