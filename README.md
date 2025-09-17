@@ -195,6 +195,7 @@ Once we have these queries created, we will leverage Tableau to translate these 
 <img width="999" height="799" alt="Total Rides Per Starting Station_ Members vs Casuals" src="https://github.com/user-attachments/assets/e6f8ddb3-7d61-41c6-847d-b36cad5a1a2a" />
 
 **5. 🗺️ Start Station Map (Members vs Casuals)**
+(Interactive map, please click the following link to explore further: [Tableau](https://public.tableau.com/app/profile/domenic.russo/viz/CyclisticCaseStudyHowMembersandCasualsRideDifferently/CyclisticUsageRideVolumeandDurationbyRiderType)
 
 **Observation**
 
