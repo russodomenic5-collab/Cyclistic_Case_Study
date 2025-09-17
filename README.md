@@ -214,6 +214,8 @@ Once we have these queries created, we will leverage Tableau to translate these 
 
 **6. 🗺️ End Station Map (Members vs Casuals)**
 
+**Interactive map, please click the following link to explore further: [Tableau](https://public.tableau.com/app/profile/domenic.russo/viz/CyclisticCaseStudyHowMembersandCasualsRideDifferently/CyclisticUsageRideVolumeandDurationbyRiderType)
+
 **Observation**:
 
 - Member rides often end close to where they began or at another commuter hub, suggesting point-to-point commuting.
