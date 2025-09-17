@@ -142,9 +142,7 @@ Once we have these queries created, we will leverage Tableau to translate these 
 
 . Casual riders use Cyclistic for leisure and recreational trips.
 
-**Relevance**:
-
-. By highlighting cost savings for long-term use and the flexibility of shorter rides, Cyclistic can encourage casual riders to consider memberships for both convenience and value.<br>
+<br>
 
 <img width="999" height="799" alt="Cyclistic Riding Patterns_ Members vs Casuals" src="https://github.com/user-attachments/assets/3850c5c0-b898-4a1a-8741-a6bac39e3c0b" />
 
@@ -162,9 +160,6 @@ Once we have these queries created, we will leverage Tableau to translate these 
 
 . Casuals ride more for recreation, tourism, or good-weather outings.
 
-**Relevance**:
-
-. Marketing campaigns can target casual riders during summer weekends (their peak usage period) and frame memberships as a way to extend these experiences year-round at a lower cost.
 
 <img width="999" height="799" alt="Cyclistic Rideable Type_ Members vs Casuals" src="https://github.com/user-attachments/assets/1455e15d-db7c-41b7-bc33-a4c93e0eb020" />
 
@@ -172,20 +167,19 @@ Once we have these queries created, we will leverage Tableau to translate these 
 
 **Observation**:
 
-. Members overwhelmingly prefer classic bikes.
+. Members overwhelmingly prefer classic bikes, logging most of their trips on this rideable type.
 
-. Casual riders are more likely to use electric bikes.
+. Casual riders also favor classic bikes (778,527 rides), but they show a stronger relative interest in electric bikes (572,489 rides) compared to members.
+
+. Electric scooters see minimal use from both groups.
 
 **Interpretation**:
 
-. Members value reliability and affordability for commuting.
+. Classic bikes remain the primary mode of transport for both members and casuals, which shows that the traditional option continues to be the backbone of Cyclistic’s ridership.
 
-. Casuals are attracted to newer, more exciting ride options.
+. However, casual riders experiment with electric bikes at a higher rate than members, suggesting that electrics may be appealing to more flexible, occasional users.
 
-**Relevance**:
-
-. Cyclistic could create promotional bundles (e.g., discounted memberships that include electric bike access) to appeal to casual riders’ preferences.
-
+. Since electric scooters represent only a small fraction of trips, they likely don’t play a major role in influencing membership decisions.
 
 <img width="999" height="799" alt="How Long Members and Casual Riders Take Cyclistic Rides" src="https://github.com/user-attachments/assets/c74e1c8a-4afa-435a-a439-0766e32b17e6" />
 
